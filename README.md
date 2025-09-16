@@ -1,5 +1,5 @@
 ## Hi there 👋
-![banner](shalluBanner.png)
+![banner](shallubanner.png)
 
 <!--
 **ShalluCa10/ShalluCa10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
