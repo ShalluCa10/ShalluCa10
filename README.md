@@ -91,7 +91,7 @@
 
 ---
 
- **“Coding helps you to see another angle to see real world.”**
+ **“Coding helps you to see real world in new angle.”**
 
 <!--
 **ShalluCa10/ShalluCa10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
