@@ -1,16 +1,13 @@
 
 ![banner](shallubanner.png)
-<h3 align="center">Mobile & Web App Developer</h3>
+### 🌐 *Mobile & Web App Developer*
 
-
-<p align="center">
-  I am flutter developer with over 2+ years of experince and I am also content creator, public speaker. I have 2 YouTube Channels. Passionate about building beautiful, performant apps with <b>Flutter</b>, <b>Kotlin</b>, <b>Swift</b>, and modern web technologies.  
-  <br>Always learning, creating, and exploring new ideas.
-</p>
+I am a **Flutter Developer** with over **2+ years of experience**, and also a **content creator** and **public speaker**.  
+I manage **two YouTube channels** and am passionate about building beautiful, performant apps using **Flutter**, **Kotlin**, **Swift**, and modern **web technologies**.  
 
 ---
 
-### Languages & Tools
+### Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="50"/>
