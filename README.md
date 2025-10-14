@@ -21,7 +21,6 @@ I manage **two YouTube channels** and am passionate about building beautiful, pe
 
 ---
 
----
 
 ###  Experience
 
@@ -35,8 +34,6 @@ I manage **two YouTube channels** and am passionate about building beautiful, pe
   → Developed and maintained cross-platform mobile applications using Flutter.  
   → Integrated REST APIs, implemented Firebase services, and optimized app performance.  
   → Worked closely with designers and backend teams to deliver user-centered digital solutions.
-
----
 
 ---
 
@@ -77,7 +74,6 @@ I manage **two YouTube channels** and am passionate about building beautiful, pe
 ---
 
 
----
 
 ### 📊 GitHub Stats
 
