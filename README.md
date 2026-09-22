@@ -1,10 +1,8 @@
 
 ![banner](shallubanner.png)
-### 🌐 *Mobile & Web App Developer*
+### 🌐 *Software Developer*
 
-I am a **Flutter Developer** with over **2+ years of experience**, and also a **content creator** and **public speaker**.  
-I manage **two YouTube channels** and am passionate about building beautiful, performant apps using **Flutter**, **Kotlin**, **Swift**, and modern **web technologies**.  
-
+Hello! I am a versatile ***Software Developer*** with over 3 years of experience, dedicated to crafting impactful applications. I did my ***Masters in IT*** and post graduate certificate program from George Brown Polytechnic and Humber Polytechnic.
 ---
 
 ### Tech Stack
